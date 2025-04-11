@@ -31,7 +31,7 @@
 
 ### 4.1 主界面介绍
 
-<img src="[](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2012%2055%2005.png)" style="zoom: 80%;" />
+![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2012%2055%2005.png)
 
 1. **功能按钮区**: 包含"载入图片"、"屏幕截图"、"全局识别"和"历史记录"四个主要功能按钮
 2. **图片显示区**: 显示当前加载的图片
@@ -67,7 +67,7 @@
 
 ### 4.3 识别结果窗口
 
-![]([](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2012%2059%2039.png)
+![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2012%2059%2039.png)
 
 1. **文本显示区**: 显示识别出的文字内容
 2. **工具栏**:
@@ -80,7 +80,7 @@
 
 ### 4.4 历史记录管理
 
-![]([](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2013%2001%2032.png))
+![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/2025-04-11%2013%2001%2032.png)
 
 1. **工具栏**:
    - 清空历史: 删除所有历史记录
@@ -125,5 +125,5 @@
 
 如果你对此项目有兴趣，请你捐赠一下。你的鼓励是我前进的最大动力。
 
-<img src="[](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/IMG_1677.JPG)" style="zoom: 50%;" />
+![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/IMG_1677.JPG)
 
