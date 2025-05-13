@@ -125,5 +125,6 @@
 
 如果你对此项目有兴趣，请你捐赠一下。你的鼓励是我前进的最大动力。
 
+![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/IMG_1730.PNG)
 ![image](https://github.com/TangTony2023/WechatOCR_Update/blob/main/Photo/IMG_1677.JPG)
 
